@@ -1,1 +1,1 @@
-Este repositório contem o código do lab1 da cadeira de SI - UFCG - 2015.1 - primeira mudança
+Este repositório contem o código do lab1 da cadeira de SI - UFCG - 2015.1 - segunda mudança
